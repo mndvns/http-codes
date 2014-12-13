@@ -5,6 +5,5 @@
   "version": "0.1.0",
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
   "main": "index.js",
-  "scripts": ["index.js"],
-  "files": ["codes.json"]
+  "scripts": ["index.js"]
 }
