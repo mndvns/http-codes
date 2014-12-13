@@ -1,0 +1,12 @@
+{
+  "name": "http-codes",
+  "version": "0.1.0",
+  "description": "HTTP status codes",
+  "keywords": ["http", "codes", "status"],
+  "author": "Michael Andrew Vanasse <mail@mndvns.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mndvns/http-codes"
+  }
+}
