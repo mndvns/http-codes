@@ -2,7 +2,7 @@
   "name": "http-codes",
   "repository": "mndvns/http-codes",
   "description": "HTTP status codes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
   "main": "index.js",
   "scripts": ["index.js"]
